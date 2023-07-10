@@ -31,3 +31,47 @@
 .hdr1 p{
     color:rgba(39, 39, 39, 0.60);
 }
+.hhdr2{
+    text-align: center;
+    padding: auto;
+}
+.flwr1{
+    width: 300px;
+    height: 413px;
+    background-color:rgba(255, 192, 203, 0.811);
+    
+    border-radius:250px 250px 0px 0px ;
+}
+.flwr1 img{
+    width: 80%;
+    padding: 30px;
+    padding-top: 80px;
+}
+.flwr22{
+    width: 300px;
+    height: 413px;
+    background-color:rgba(5, 151, 160, 0.15);
+    border-radius:250px 250px 0px 0px ;
+}
+.flwr22 img{
+    width: 80%;
+    padding: 30px;
+    padding-top: 80px;
+}
+.flwr33{
+    width: 300px;
+    height: 413px;
+    background-color:rgba(71, 125, 17, 0.15);
+    
+    border-radius:250px 250px 0px 0px ;
+}
+.flwr33 img{
+    width:74%;
+    padding: 30px;
+    padding-top: 80px;
+}
+.hhdr3{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
