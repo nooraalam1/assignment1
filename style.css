@@ -103,3 +103,108 @@
 .main1{
     text-align: center;
 }
+.insta{
+    text-align: center;
+}
+.ins{
+    display: flex;
+    width: 70%;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 10px;
+    
+}
+.in{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+.deal{
+    width: 80%;
+    background-image: url("./flowerasset/rectangle\ 9.png");
+    text-align: center;
+   
+    padding-bottom: 50px;
+    
+}
+.deal1{
+    padding-top: 100px;
+   
+}
+.ddl{
+    display: flex;
+   
+    justify-content: center;
+ 
+}
+.mail{
+    padding: 20px 80px;
+    border-radius: 5px;
+    border: 1px solid rgb(166, 162, 162);
+    background-color:rgb(255, 255, 255) ;
+       
+}
+.ftr{
+    height: 50vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.white{
+    color: white;
+}
+.ftr1{
+    text-align: center;
+    
+}
+.clr{
+    color: #272727;
+}
+.address{
+    width: 350px;
+    background-color: rgba(62, 187, 215, 0.845);
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+.address2{
+    width: 350px;
+    background-color: rgba(62, 187, 215, 0.845);
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding-bottom: 38px;
+}
+.adrs{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav2 a{
+text-decoration: none;
+padding: 15px;
+font-size: larger;
+font-weight: 600;
+color: white;
+
+}
+.navv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    background-color: black
+}
+.nav2 a:hover{
+    background-color: rgb(255, 0, 85);
+   
+    box-shadow: 5px 5px 5px white;
+}
+.nav1>big{
+    padding-right: 40px;
+}
